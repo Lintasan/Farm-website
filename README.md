@@ -9,3 +9,10 @@
 
 #CONTACT_FORM
 ![image](https://github.com/user-attachments/assets/4625c956-80ae-45ed-a936-f0bb6f4f160f)
+
+#REGISTER_FORM
+![image](https://github.com/user-attachments/assets/6f2bf102-d8e8-4801-a4d4-220ae721408b)
+
+#LOGIN_FORM
+![image](https://github.com/user-attachments/assets/49a5a2bb-0709-4a05-ab2f-9457a88ca9c1)
+
